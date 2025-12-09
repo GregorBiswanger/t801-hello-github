@@ -15,4 +15,4 @@ jobs:
               uses: actions/checkout@v4
 
             - name: JavaScript ausführen
-              run: node /src/hello-world.js
+              run: node ./src/hello-world.js
